@@ -1,0 +1,4 @@
+requests
+schedule
+openai
+pillow
